@@ -1,0 +1,5 @@
+question_id,date,time,question,answer,feedback_type,feedback_text
+chatcmpl-B5pdRVpJ5kVALORymUGUjazTWJfwo,2025-02-28,16:03:42,['another joke!'],"['Sure, here you go:\n\nWhy did the coffee file a police report?\n\nIt got mugged!']",,
+chatcmpl-B5pdYYVtqkGuHgqBX6SMDKVQdRKrd,2025-02-28,16:03:49,['I think you can do better'],['I appreciate the feedback! Let me try again:\n\nWhy did the math book look sad?\n\nBecause it had too many problems.'],,
+chatcmpl-B5pddOY66onFXYg9Cu1fPjtjkYdqt,2025-02-28,16:03:55,['how about another!'],"[""Absolutely! Here's another one for you:\n\nWhy was the math book sad?\n\nBecause it had too many problems.""]",👍,Okay this was a good one!
+chatcmpl-B5pdw2SaOl34AOnnQOisEsby4mivv,2025-02-28,16:04:13,['what about another joke?'],"[""Sure thing! Here's another joke for you:\n\nWhy did the scarecrow win an award?\n\nBecause he was outstanding in his field!""]",👎,Nah this was a bad one
